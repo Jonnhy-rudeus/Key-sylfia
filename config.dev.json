@@ -12,13 +12,13 @@
   "antiInbox": false,
   "language": "en",
   "notesLanguage": "change to your language with ISO 639-1 code, available languages: vi (Vietnamese), en (English)",
-  "nickNameBot": "𝙼𝚘𝚌𝚑𝚊 [ - ]",
-  "prefix": "-",
+  "nickNameBot": "𝙼𝚘𝚌𝚑𝚊 [ 彡🌹𝐬𝐲𝐥𝐟𝐢𝐚 𝐫𝐮𝐝𝐲🌹彡 ]",
+  "prefix": "#",
   "adminOnly": {
     "enable": false,
     "ignoreCommand": []
   },
-  "adminBot": [],
+  "adminBot": [61556844002491],
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [],
